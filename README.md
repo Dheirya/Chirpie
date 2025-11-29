@@ -16,7 +16,7 @@ A Tamagotchi-style virtual companion that encourages healthy habits.
 Chirpie is built using:
 - Arduino Uno microcontroller
 - 2.8" TFT touchscreen
-- 3D printed design in [CAD](https://cad.onshape.com/documents/94edd148011d3fedb0c75dae/w/326ec27714b0a8ae1ea4fcca/e/0c6869ba66d10c605e998fd6)
+- 3D printed design in [CAD](https://cad.onshape.com/documents/94edd148011d3fedb0c75dae/w/326ec27714b0a8ae1ea4fcca/e/cfe7abb62cdbd7dbb95e723f)
 
 ## Software
 The software is written in **C** and **C++** and runs on the Arduino platform. Core components include:
